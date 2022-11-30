@@ -1,12 +1,18 @@
 # Lotto
 
 
-# 이 챕터를 통해 배우는 것
+
+
+
+
+### 이 챕터를 통해 배우는 것
 
   - **ConstraintLayout** 사용하기
   - **NumberPicker** 의 속성들과 사용하는 법
 - Shape Drawable 사용하기 
   - (https://developer.android.com/guide/topics/resources/drawable-resource#Shape)
+
+
 
 
 
